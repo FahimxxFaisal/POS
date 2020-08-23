@@ -1,0 +1,27 @@
+        Main Window
+------------------------------
+Admin----1
+Manager---2
+Cashier---3
+Customer---4
+Close-----5
+----------------------
+        Admin
+-------------------
+Admin login-6
+last 17(till now)
+----------------------------
+	Manage
+-----------------
+Login manage-18
+last-23(till now)
+---------------------
+	Cash
+--------------------
+Login cash-24
+last-28(till now)
+-------------------
+	Custome
+------------------
+login-29
+last
